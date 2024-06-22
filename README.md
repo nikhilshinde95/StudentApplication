@@ -3,13 +3,15 @@ Postman is used for API calling.
 
 Features :
 
-      1] View a list of student.
-      
-      2] Add new student to the database.
-      
-      3] Update existing student information.
-      
-      4] Delete student from the database.
+        1] View a list of student.
+
+        2] View Student With ID.
+  
+        3] Add new student to the database.
+  
+        4] Update existing student information.
+  
+        5] Delete student from the database.
 
 Technologies Used :
 
